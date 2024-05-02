@@ -1,4 +1,4 @@
-#Attributes: features of the house
+# Attributes: features of the house
 
 """""
 size: s,m,l
@@ -17,18 +17,18 @@ cleaning-clean the house
 Methods are...a function that belongs to a class
 """
 
-#Instances(Objects)
+# Instances(Objects)
 """"
 The houses built of the blueprint provided
 """
 
 
 class HousePlan:
-    def __init__(self,u_size,u_colour,u_num_rooms,u_floor): #constructer method
-        self.size=u_size
-        self.color=u_colour
-        self.num_rooms=u_num_rooms
-        self.floor=u_floor
+    def __init__(self, u_size, u_colour, u_num_rooms, u_floor):  # constructer method
+        self.size = u_size
+        self.color = u_colour
+        self.num_rooms = u_num_rooms
+        self.floor = u_floor
 
     def openDoor(self):
         print("The door has been opened.")
@@ -40,20 +40,23 @@ class HousePlan:
     def RumbClean(self):
         print("House has been cleaned.")
 
-h_size=input("what size housewould you prefer (small, medium, large): ")
-h_color=input("what color housewould you prefer (blue, green, red)): ")
-h_num=int(input("house_num: "))
-h_flooring=input("flooring")
 
-kitt_house=HousePlan(h_size,h_color,h_num,h_flooring)
+h_size = input("what size housewould you prefer (small, medium, large): ")
+h_color = input("what color housewould you prefer (blue, green, red)): ")
+h_num = int(input("house_num: "))
+h_flooring = input("flooring")
 
-print(f"""
+kitt_house = HousePlan(h_size, h_color, h_num, h_flooring)
+
+print(
+    f"""
       ......................................................
       Size:{kitt_house.size}
       Colour:{kitt_house.color}
       Number of rooms:{kitt_house.num_rooms}
       Flooring:{kitt_house.floor}
-      .........................................................""")   
+      ........................................................."""
+)
 
 kitt_house.openDoor()
 kitt_house.lightSwitch()
