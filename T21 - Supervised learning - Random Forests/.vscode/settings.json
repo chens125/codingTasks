@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "python",
+            "scheme": "vscode-notebook-cell",
+            "pattern": "c:\\Users\\DELL\\Desktop\\Data_Science_Notes\\T20 -Supervised learning - Decision Trees\\decision_tree_titanic.ipynb"
+        }
+    ]
+}
