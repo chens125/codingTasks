@@ -14,25 +14,25 @@ This repository contains various coding tasks and projects completed during the 
 - [Contact](#contact)
 
 ## Tasks Overview
-Interview
-T03 - Data Types and Conditional Statements
-T04 - Iteration
-T06 - Programming with User-defined Functions
-T07 - Handling Strings, Lists and Dictionaries
-T08 - File IO Operations
-T09 - OOP - Classes
-T11 - Datasets and DataFrames
-T12 - Data Visualisation
-T13 - Data Analysis - Data Cleaning
-T14 - Data Analysis - Preprocessing
-T15 - Exploratory Data Analysis
-T17 - Simple Linear Regression
-T18 - Multiple Linear Regression
-T19 - Logistic Regression
-T20 -Supervised learning - Decision Trees
-T21 - Supervised learning - Random Forests
-T22 - Image Processing
-T24 - Exploring Neural Networks
+[**Interview**]
+[**T03 - Data Types and Conditional Statements**](https://github.com/chens125/codingTasks/tree/main/T03%20-%20Data%20Types%20and%20Conditional%20Statements)
+[**T04 - Iteration**]
+[**T06 - Programming with User-defined Functions**]
+[**T07 - Handling Strings, Lists and Dictionaries**]
+[**T08 - File IO Operations**]
+[**T09 - OOP - Classes**]
+[**T11 - Datasets and DataFrames**]
+[**T12 - Data Visualisation**]
+[**T13 - Data Analysis - Data Cleaning**]
+[**T14 - Data Analysis - Preprocessing**]
+[**T15 - Exploratory Data Analysis**]
+[**T17 - Simple Linear Regression**]
+[**T18 - Multiple Linear Regression**]
+[**T19 - Logistic Regression**]
+[**T20 -Supervised learning - Decision Trees**]
+[**T21 - Supervised learning - Random Forests**]
+[**T22 - Image Processing**]
+[**T24 - Exploring Neural Networks**]
 
 ## Getting Started
 
