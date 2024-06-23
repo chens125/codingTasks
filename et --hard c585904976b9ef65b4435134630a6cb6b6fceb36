@@ -1,0 +1,90 @@
+[33mcommit e7c178120537d0b9999376501ac4b01eb89ac7e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Fri Jun 21 21:49:43 2024 +0100
+
+    K_Means Cliustering & NLP
+
+[33mcommit c354dd1ea947a55c6ce0cb3296729bd2f77a276d[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Fri Jun 21 21:48:00 2024 +0100
+
+    K_Means Cliustering & NLP
+
+[33mcommit c585904976b9ef65b4435134630a6cb6b6fceb36[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Thu May 30 02:15:39 2024 +0100
+
+    image processing
+
+[33mcommit 68dce110e9e165d8b1acbf5e1cf6107f02e91791[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Wed May 29 13:41:48 2024 +0100
+
+    Reviwed
+
+[33mcommit cfe21d4db8dd06d0af65f3098f092d050468c706[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Wed May 29 13:40:30 2024 +0100
+
+    Reviwed
+
+[33mcommit b936ee60792b09b52dadbdc00e2f1c0623f72842[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Wed May 29 13:30:58 2024 +0100
+
+    DF and RF updated
+
+[33mcommit 7d102bf1ae7709eff5f3fe6c6e009825010add31[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Fri May 17 13:18:51 2024 +0100
+
+    Math and Logistic Regression
+
+[33mcommit 6b0184626d1aff90896fc67658db08421673d106[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Sat May 11 00:55:42 2024 +0100
+
+    Multi Linear
+
+[33mcommit 27a5038ddc7809dcc379f10159b2b9cd70f0e606[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Thu May 9 16:25:27 2024 +0100
+
+    T17 Machine Learning added
+
+[33mcommit 6f149dfc0453add60c9e51702c88a5f05211a06b[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Wed May 8 11:31:17 2024 +0100
+
+    Add simple linear regression & ML
+
+[33mcommit a665431b9536fb2bde347a90f26487d4ebf0e945[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Sun May 5 19:49:09 2024 +0100
+
+    T15 update
+
+[33mcommit af8f511b0fbb507194233beb481f1386d86af8f7[m
+Merge: 9a48a14 0922493
+Author: chens125 <y1042288741@gmail.com>
+Date:   Thu May 2 20:16:40 2024 +0100
+
+    Merge branch 'main' of https://github.com/chens125/Data-Science-Notes-and-Practice
+
+[33mcommit 9a48a14d768a21d7d60173c029f02d34ea119e79[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Thu May 2 19:59:19 2024 +0100
+
+    Wow First Time Doing This!
+
+[33mcommit 00a4a8d8d39eebbe62f3326c40891ce3ab93e73e[m
+Author: chens125 <y1042288741@gmail.com>
+Date:   Mon Apr 29 01:56:47 2024 +0100
+
+    first commit
+
+[33mcommit 0922493a2e6ec16a670460e5ca28d2b77f373cd2[m
+Author: chens125 <163058926+chens125@users.noreply.github.com>
+Date:   Sun Apr 28 23:38:25 2024 +0100
+
+    Initial commit
